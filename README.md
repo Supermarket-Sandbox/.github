@@ -1,0 +1,2 @@
+# .github
+Supermarket sandbox repo
