@@ -25,7 +25,7 @@ The project aims to combine business management, store building, automation, mul
 - Product creation
 - Store economy
 - Automation systems
-- Computer and network management
+- Computer and network management (and games)
 - Creative Mode
 - Sandbox Mode
 - Multiplayer
@@ -81,6 +81,7 @@ Current development goals include:
 - [ ] Checkout system
 - [ ] Inventory system
 - [ ] Employee system
+- [ ] Computer systems
 - [ ] Economy
 - [ ] Multiplayer
 - [ ] Dedicated servers
