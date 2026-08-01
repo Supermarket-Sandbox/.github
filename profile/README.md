@@ -4,7 +4,7 @@ Supermarket Sandbox is an open-ended supermarket management simulation game focu
 
 Build and manage supermarkets, create custom departments, automate workflows, manage employees, and expand your business. The game is designed around modular systems that allow players to shape their own experience.
 
-**Status:** Early Development
+**Status:** Researh before developement
 
 ---
 
@@ -63,6 +63,9 @@ The server architecture is intended to support:
 - Modular extensions
 - Community-hosted servers
 - Future bridge modules for external platforms
+- Easy setup and use
+- plugins and mod support
+- Multiple languages
 
 ---
 
@@ -81,17 +84,7 @@ Current development goals include:
 - [ ] Economy
 - [ ] Multiplayer
 - [ ] Dedicated servers
-
----
-
-# Technology
-
-| Component | Value |
-|-----------|-------|
-| Engine | Unity 6 LTS |
-| Language | C# |
-| Version Control | Git |
-| Target Platform | Windows (initial) |
+- [ ] Sever modules (Cross platform, minecraft, roblox and more games)
 
 ---
 
@@ -99,7 +92,8 @@ Current development goals include:
 
 The project is currently in its early development phase.
 
-Contribution guidelines will be published when the project reaches its first public milestone.
+I currently cant code and i dont know what to begin with and how to do it if you want to help add me on Discord: mccodingpanda
+I hope we can all help eachother there is always work in every way 
 
 ---
 
